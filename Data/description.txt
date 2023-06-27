@@ -1,0 +1,8 @@
+## Description
+video_ID = 'Unique ID for each video that is uploaded'
+video_Title = 'Title of every video'
+upload_Date = 'Video uploading Date'
+view_count = 'Total Views on each video'
+like_count = 'Total likes in each video'
+view_comment = 'Total Comments in each video'
+favourite_count = 'The video is favourite or not'
